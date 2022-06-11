@@ -1,4 +1,4 @@
 # Expense-App-ReactJs-
 
-npm install
-npm start
+--npm install
+--npm start
