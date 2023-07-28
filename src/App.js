@@ -6,20 +6,20 @@ import Expenses from './Component/Expenses/Expenses';
 const DUMMY_EXPENSES = [
   {
     id: 'e1',
-    title: 'Toilet Paper',
+    title: 'Coursename 1',
     amount: 94.12,
     date: new Date(2022, 7, 14),
   },
   { id: 'e2', title: 'New TV', amount: 799.49, date: new Date(2023, 2, 12) },
   {
     id: 'e3',
-    title: 'Car Insurance',
+    title: 'Coursename 2',
     amount: 294.67,
     date: new Date(2025, 2, 28),
   },
   {
     id: 'e4',
-    title: 'New Desk (Wooden)',
+    title: 'CourseName 3',
     amount: 450,
     date: new Date(2022, 5, 12),
   },
